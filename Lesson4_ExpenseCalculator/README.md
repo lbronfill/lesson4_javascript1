@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(02/12/2017, Year)
 
 ### Student Name:  
-(First and Last Name)
+(Liria Bronfill)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(To create and online calculator that will allow the user to be able to input there bill's and give them a result of all their expenses in a percentage format.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://github.com/lbronfill/lesson4_javascript1)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (The importance of following the syntax rules in JavaScript when it comes to inputing the proper lower case or upper case wording because they are two different things.)
+2. (The JavaScript program can contain either local or globals variables.)
+3. (JavaScript is a client side program.)
